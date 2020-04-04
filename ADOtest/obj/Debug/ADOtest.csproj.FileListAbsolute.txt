@@ -1,0 +1,7 @@
+C:\Users\asus\Desktop\net\WebApplication1\ADOtest\bin\WebApplication1.dll.config
+C:\Users\asus\Desktop\net\WebApplication1\ADOtest\bin\WebApplication1.dll
+C:\Users\asus\Desktop\net\WebApplication1\ADOtest\bin\WebApplication1.pdb
+C:\Users\asus\Desktop\net\WebApplication1\ADOtest\obj\Debug\ADOtest.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\net\WebApplication1\ADOtest\obj\Debug\ADOtest.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\net\WebApplication1\ADOtest\obj\Debug\WebApplication1.dll
+C:\Users\asus\Desktop\net\WebApplication1\ADOtest\obj\Debug\WebApplication1.pdb

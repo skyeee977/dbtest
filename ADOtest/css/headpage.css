@@ -1,0 +1,21 @@
+﻿#title {
+    position: absolute;
+    left: 420px;
+    top: 250px;
+    font-size:60px;
+}
+#username {
+    position:absolute ;
+    left:610px;
+    top:350px;
+}
+#userpwd {
+    position: absolute;
+    left: 620px;
+    top: 400px;
+}
+#confirm {
+    position: absolute;
+    left: 660px;
+    top: 450px;
+}
